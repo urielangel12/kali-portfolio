@@ -1,14 +1,14 @@
 {
   "nav": {
     "home": "home",
-    "about": "about_me",
-    "arsenal": "SKILLS & TOOLS",
-    "experience": "experience",
-    "projects": "projects",
-    "labs": "labs",
-    "certifications": "certifications",
-    "resume": "resume",
-    "contact": "contact"
+    "about": "About_me",
+    "arsenal": "Skills & Tools",
+    "experience": "Experience",
+    "projects": "Projects",
+    "labs": "Labs",
+    "certifications": "Certifications",
+    "resume": "Resume",
+    "contact": "Contact"
   },
   "topbar": {
     "whoami": "whoami",
