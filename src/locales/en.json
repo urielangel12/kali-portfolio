@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "home",
+    "about": "about_me",
+    "arsenal": "SKILLS & TOOLS",
+    "experience": "experience",
+    "projects": "projects",
+    "labs": "labs",
+    "certifications": "certifications",
+    "resume": "resume",
+    "contact": "contact"
+  },
+  "topbar": {
+    "whoami": "whoami",
+    "answer": "angel"
+  },
+  "system": {
+    "title": "SYSTEM INFO",
+    "user": "user",
+    "os": "os",
+    "kernel": "kernel",
+    "uptime": "uptime",
+    "shell": "shell",
+    "status": "status",
+    "online": "online"
+  },
+  "hero": {
+    "role": "Bachelor's in Systems and Computer Engineering",
+    "desc": "Currently pursuing a Master's in Cybersecurity. Passionate about information security, risk analysis, networks, development and emerging technologies.",
+    "mission_cmd": "cat mission.txt",
+    "mission_text": "Learn. Build. Protect. Improve.",
+    "location": "Peru"
+  },
+  "about": {
+    "title": "ABOUT ME",
+    "body": "Bachelor's degree in Systems and Computer Engineering from Universidad Tecnológica del Perú (UTP), interested in offensive and defensive cybersecurity, risk management, networks and solution development. Constantly learning and building hands-on experience.",
+    "university": "Universidad Tecnológica del Perú (UTP)"
+  },
+  "arsenal": {
+    "title": "SKILLS & TOOLS",
+    "gov": "GOVERNANCE & RISK",
+    "net": "NETWORKS & SECURITY",
+    "iam": "IAM & ACCESS",
+    "infra": "INFRASTRUCTURE",
+    "dev": "DEVELOPMENT",
+    "osint": "ANALYSIS & OSINT"
+  },
+  "experience": {
+    "title": "EXPERIENCE",
+    "more": "See more experience"
+  },
+  "projects": {
+    "title": "FEATURED PROJECTS",
+    "all": "All",
+    "view_case": "View case",
+    "view_all": "See all projects"
+  },
+  "labs": {
+    "title": "LABS",
+    "subtitle": "Cybersecurity practice labs and environments."
+  },
+  "certifications": {
+    "title": "CERTIFICATIONS",
+    "subtitle": "Certificates and completed courses."
+  },
+  "resume": {
+    "title": "RESUME",
+    "subtitle": "Download my resume as a PDF.",
+    "download": "Download CV"
+  },
+  "terminal": {
+    "title": "TERMINAL",
+    "cmd_whoami": "whoami",
+    "cmd_mission": "cat mission.txt",
+    "cmd_status": "status",
+    "line1": "[+] Master's in Cybersecurity: IN PROGRESS",
+    "line2": "[+] Portfolio: ONLINE",
+    "line3": "[+] Goal: GROW"
+  },
+  "contact": {
+    "title": "CONTACT",
+    "subtitle": "Got a project or a job opening? Write to me.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "theme": "Designed with a Kali Linux theme"
+  }
+}

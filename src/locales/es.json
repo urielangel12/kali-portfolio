@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "arsenal": "Skills & Tools",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "labs": "Labs",
+    "certifications": "Certificaciones",
+    "resume": "CV",
+    "contact": "Contacto"
+  },
+  "topbar": {
+    "whoami": "whoami",
+    "answer": "angel"
+  },
+  "system": {
+    "title": "SYSTEM INFO",
+    "user": "user",
+    "os": "os",
+    "kernel": "kernel",
+    "uptime": "uptime",
+    "shell": "shell",
+    "status": "status",
+    "online": "online"
+  },
+  "hero": {
+    "role": "Bachiller en Ingeniería de Sistemas e Informática",
+    "desc": "Actualmente cursando Maestría en Ciberseguridad. Apasionado por la seguridad de la información, análisis de riesgos, redes, desarrollo y tecnologías emergentes.",
+    "mission_cmd": "cat mission.txt",
+    "mission_text": "Aprender. Construir. Proteger. Mejorar.",
+    "location": "Perú"
+  },
+  "about": {
+    "title": "SOBRE MÍ",
+    "body": "Soy bachiller de la carrera de Ingeniería de Sistemas e Informática con un enfoque en innovación y resolución de problemas. Habilidades destacadas en análisis, diseño e implementación de tecnologías. Orientado al trabajo en equipo y aprendizaje continuo. Destacado por habilidades analíticas, capacidad para trabajar en equipo y adaptabilidad en entornos dinámicos. ",
+    "university": "Universidad Tecnológica del Perú (UTP)"
+  },
+  "arsenal": {
+    "title": "HABILIDADES & HERRAMIENTAS",
+    "gov": "GOBIERNO & RIESGOS",
+    "net": "REDES & SEGURIDAD",
+    "iam": "IAM & ACCESOS",
+    "infra": "INFRAESTRUCTURA",
+    "dev": "DESARROLLO",
+    "osint": "ANÁLISIS & OSINT"
+  },
+  "experience": {
+    "title": "EXPERIENCIA",
+    "more": "Ver más experiencia"
+  },
+  "projects": {
+    "title": "PROYECTOS DESTACADOS",
+    "all": "Todos",
+    "view_case": "Ver caso",
+    "view_all": "Ver todos los proyectos"
+  },
+  "labs": {
+    "title": "LABS",
+    "subtitle": "Prácticas y entornos de laboratorio de ciberseguridad."
+  },
+  "certifications": {
+    "title": "CERTIFICACIONES",
+    "subtitle": "Certificados y cursos completados."
+  },
+  "resume": {
+    "title": "RESUME",
+    "subtitle": "Descarga mi hoja de vida en PDF.",
+    "download": "Descargar CV"
+  },
+  "terminal": {
+    "title": "TERMINAL",
+    "cmd_whoami": "whoami",
+    "cmd_mission": "cat mission.txt",
+    "cmd_status": "status",
+    "line1": "[+] Maestría en Ciberseguridad: EN CURSO",
+    "line2": "[+] Portafolio: ONLINE",
+    "line3": "[+] Objetivo: CRECER"
+  },
+  "contact": {
+    "title": "CONTACTO",
+    "subtitle": "¿Tienes un proyecto o una vacante? Escríbeme.",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar mensaje"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "theme": "Diseñado con temática Kali Linux"
+  }
+}
