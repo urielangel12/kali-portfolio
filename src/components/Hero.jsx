@@ -1,6 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
-import { MapPin, Mail, Phone } from "lucide-react";
+import { MapPin, Mail } from "lucide-react";
+import { LinkedinIcon } from "./BrandIcons";
 import profile from "../data/profile";
 
 export default function Hero() {
@@ -65,10 +66,15 @@ export default function Hero() {
 >
   <Mail size={14} className="text-cyan" /> {profile.email}
 </a>
-              <a href={`tel:${profile.phone.replace(/\s/g, "")}`} className="flex items-center gap-1.5 hover:text-cyan">
-                <Phone size={14} className="text-cyan" /> {profile.phone}
-              </a>
+                  <a href={profile.social.linkedin}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex items-center gap-1.5 hover:text-cyan"
+>
+  <LinkedinIcon size={14} className="text-cyan" /> LinkedIn
+</a> 
             </div>
+      
           </div>
 
           <div className="relative z-10 mt-6 rounded-lg border border-edge bg-panel-2/60 p-3 font-mono text-xs sm:text-sm">

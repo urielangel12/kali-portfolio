@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import { MessageCircle, Mail, Menu } from "lucide-react";
+import { Mail, Menu } from "lucide-react";
 import { LinkedinIcon, GithubIcon } from "./BrandIcons";
 import profile from "../data/profile";
 import LanguageSwitch from "./LanguageSwitch";
@@ -32,8 +32,7 @@ export default function Topbar({ onMenuClick }) {
       <div className="flex items-center gap-4 sm:gap-6">
         <SocialLink href={profile.social.linkedin} icon={LinkedinIcon} label="LinkedIn" />
         <SocialLink href={profile.social.github} icon={GithubIcon} label="GitHub" />
-        <SocialLink href={profile.social.whatsapp} icon={MessageCircle} label="WhatsApp" />
-       <SocialLink href={`https://mail.google.com/mail/?view=cm&fs=1&to=${profile.email}`}   icon={Mail}  label="Email"/>
+        <SocialLink href={`https://mail.google.com/mail/?view=cm&fs=1&to=${profile.email}`}   icon={Mail}  label="Email"/>
         <LanguageSwitch />
         <span className="hidden h-2.5 w-2.5 rounded-full bg-term-green shadow-[0_0_8px_#2be08c] sm:block" />
       </div>
